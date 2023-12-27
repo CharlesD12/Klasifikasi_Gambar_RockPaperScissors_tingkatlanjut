@@ -1,4 +1,4 @@
-#Klasifikasi_Gambar_RockPaperScissors_tingkatlanjut
+# Klasifikasi_Gambar_RockPaperScissors_tingkatlanjut
 Proyek yang telah saya kerjakan ini merupakan model deep learning yang mengklasifikasikan gambar gerakan tangan menjadi batu, kertas, atau gunting. Kode ini menggunakan pustaka TensorFlow dan Keras.
 
 Pertama, kode ini menginstal paket Python yang diperlukan dan mengimpor modul yang diperlukan. Kemudian, kode ini mengunduh file zip yang berisi gambar gerakan tangan dari repositori GitHub dan mengekstraknya ke direktori lokal.
